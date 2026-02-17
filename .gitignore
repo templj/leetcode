@@ -5,3 +5,4 @@ working
 **/sol
 **/__pycache__
 .ruff_cache/
+.idea
